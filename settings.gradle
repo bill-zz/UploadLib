@@ -1,2 +1,2 @@
+include ':mylib'
 include ':app'
-rootProject.name = "UploadLib"
